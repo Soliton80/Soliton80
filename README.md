@@ -1,5 +1,6 @@
-### Hi there 👋
+### Hi everyone 👋
 
+![LeetCode Stats](https://leetcard.jacoblin.cool/soliton80?theme=dark&font=Roboto%20Mono)
 <!--
 **Soliton80/Soliton80** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
